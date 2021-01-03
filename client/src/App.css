@@ -1,0 +1,20 @@
+.App{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "poppins", sans-serif;
+  background-color: rgb(241, 241, 241);
+}
+
+input{
+  outline: none;
+}
+
+button{
+  outline: none;
+}
+
+button:focus{
+  outline: none;
+}
+
